@@ -52,4 +52,4 @@ $ pytest unit_test.py
 
 ## License
 
-[MIT © Chantal Maskell.](../LICENSE)
+[MIT © Islam Mostafa.](../LICENSE)
